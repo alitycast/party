@@ -1,2 +1,2 @@
 # party
-Dinner Party app
+First commit
